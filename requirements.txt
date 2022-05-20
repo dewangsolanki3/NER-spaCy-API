@@ -1,3 +1,6 @@
 flask
 gunicorn
 Jinja2
+spacy=2.2.4
+fitz
+PyMuPDF
